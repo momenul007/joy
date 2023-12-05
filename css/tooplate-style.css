@@ -3,6 +3,9 @@
 
 
 */
+.navbar-brand {
+  display: none;
+}
 
 
 body {
